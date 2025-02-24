@@ -40,7 +40,9 @@ const Todo = () => {
           </div>
         </div>
       </div>
-
+<div className="kad">
+  
+</div>
       {addtask && (
         <div className="taskList">
           <h2>Tasks</h2>
